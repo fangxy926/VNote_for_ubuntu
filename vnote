@@ -1,0 +1,5 @@
+#/bin/sh
+
+VERSION="VNote-2.9-x86_64.AppImage"
+
+/opt/vnote/bin/$VERSION

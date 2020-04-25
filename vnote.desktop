@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=vnote
+Exec=/usr/bin/vnote
+Icon=/opt/vnote/bin/vnote.png
+Name[zh_CN]=vnote
